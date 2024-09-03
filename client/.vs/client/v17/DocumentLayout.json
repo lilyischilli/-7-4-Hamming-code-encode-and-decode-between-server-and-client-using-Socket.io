@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u8A08\u7B97\u6A5F\u7A0B\u5F0F\\Hamming_code\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA07D2D-22FD-4458-8E88-B095169FEEE5}|client.vcxproj|C:\\Users\\user\\Desktop\\\u8A08\u7B97\u6A5F\u7A0B\u5F0F\\Hamming_code\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCA07D2D-22FD-4458-8E88-B095169FEEE5}|client.vcxproj|solutionrelative:client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u8A08\u7B97\u6A5F\u7A0B\u5F0F\\Hamming_code\\client\\client.cpp",
+              "RelativeDocumentMoniker": "client.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u8A08\u7B97\u6A5F\u7A0B\u5F0F\\Hamming_code\\client\\client.cpp",
+              "RelativeToolTip": "client.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T15:02:23.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
