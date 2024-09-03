@@ -3,3 +3,4 @@ Devices connect via the socket package, with one as the server and the other as 
 When you want to enable communication within the same device, you can set the IP address to 127.0.0.1. This IP address is known as "localhost" and is used for inter-process communication within the same device.
 2. Communication Between Different Devices
 When communicating between different devices, you need to set the IP address to the actual IP address of the target device. 
+![image](https://github.com/user-attachments/assets/84533acc-2453-427a-a7ac-45663c558cd1)
