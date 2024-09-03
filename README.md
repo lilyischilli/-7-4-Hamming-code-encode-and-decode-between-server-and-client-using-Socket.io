@@ -1,0 +1,1 @@
+Devices connect via the socket package, with one as the server and the other as the client. The client sends a 4-bit message, encodes it into 7 bits, introduces 1-bit error, then sends it to the server. The server should successfully decode the 4 bits sent by the client.
